@@ -1,3 +1,13 @@
+---
+title: "QuickStart"
+permalink: /docs/quick-start/
+excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+last_modified_at: 2019-08-20T21:36:11-04:00
+redirect_from:
+  - /theme-setup/
+toc: true
+---
+
 # QuickStart
 
 좋은 도구를 사용하면 모든 것을 손으로 다룬 것보다 응용프로그램을 보다 빠르고 쉽게 유지관리 할 수 있습니다.
