@@ -46,7 +46,7 @@ Git for Windows 2.x
 
 ### 플랫폼 의존성 체크(flutter doctor)
 flutter doctor 명령어를 실행하여 플랫폼 의존성을 체크할 수 있습니다.
-```bash
+```terminal
 C:\src\flutter>flutter doctor
 [√] Flutter (Channel stable, v1.12.13+hotfix.8, on Microsoft Windows [Version 10.0.18362.657], locale ko-KR)
 
