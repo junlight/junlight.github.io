@@ -13,7 +13,7 @@ main:
 
 
 # documentation links
-angular:
+docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
